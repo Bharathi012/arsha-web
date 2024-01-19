@@ -1,0 +1,519 @@
+
+
+
+	  .play{
+		  display:flex;
+		  gap:1rem;
+		  color:white;
+		  font-size:20px;
+		  
+	  }
+	  .ply{
+		  display:flex;
+		  gap:4rem;
+		  
+	  }
+	  .play iconify-icon{
+		  font-size:2rem;
+		  color:white;
+		  
+		  
+	  }
+	  .ply button{
+		width:8rem;
+		padding:6px;
+		 background-color:#1ad1ff;
+		 color:white;
+		 border:1px white;
+		 border-radius:25px;
+		 
+	  }
+	  .banner{
+		  padding:2rem;
+	  }
+  
+ /* .mainBanner{ */
+	 /* display:flex; */
+	 /* align-items:center; */
+	/* line-height:2rem; */
+ /* } */
+ .in h1{
+	 font-size:3rem;
+	 color:white;
+ }
+ .in h2{
+	 font-size:25px;
+	 color: #d9d9d9;
+ }
+ 
+ .banner{
+	 background-color:#37517E;
+	 width:100%;
+	 
+ }
+ .ply{
+	 margin-top:4rem;
+ }
+ .kit img{
+	 
+	 width:60px;
+	 height:60px;
+	 opacity: 0.5;
+}
+ .house{
+	 background-color:#F3F5FA;
+	 padding:1rem;
+ }
+ .dolor{
+	 text-align:center;
+	 color:#37517E;
+ }
+ .acc{
+	 background-color:#F3F5FA;
+	 margin-top:2rem;
+ }
+ .vol img{
+	 width:400px;
+	 height:400px;
+ }
+ .above{
+	 margin-top:3rem;
+ }
+  .credit iconify-icon{
+	  font-size:3rem;
+	  color:#1ad1ff;
+	  
+  }
+ .system{
+	 background-color:#F3F5FA;
+	 margin-top:4rem;
+ }
+ .tower{
+	 
+		background-image:url("bulid.jpg");
+			background-attachment: fixed;
+			background-size:cover;
+			padding:4rem;
+			margin-top:2rem;
+			text-align:center;
+			
+			}
+		
+		
+ }
+ /* .git{ */
+	 /* justify-content: space-evenly; */
+ /* } */
+ /* .view img{ */
+	 /* width:10rem; */
+	 /* height:10rem; */
+	 /* border-radius:50%; */
+ /* } */
+ /* .alias { */
+	 /* display:flex; */
+	 /* gap:2rem; */
+	 /* padding:2rem; */
+ /* } */
+ /* .core{ */
+		/* display:flex; */
+		/* justify-content:space-between; */
+	/* } */
+ 
+ /* .core p{ */
+	 /* font-size:13px; */
+	 /* color:#37517E; */
+ 
+  .credit{
+	 background-color:white;
+	 margin:.5rem;
+	 
+ }
+ .no h1{
+	 text-align:center;
+	 color:#37517E;
+	 font-size:32px;
+	 
+ }
+  .no p{
+	 text-align:center;
+	  font-size:16px;
+	 
+ }
+ .pos h4{
+	 font-size:20px;
+	 color:#37517E;
+ }
+ .pos span{
+	 font-size:15px;
+ }
+ .pos p{
+	 font-size:14px;
+ }
+ .pin iconify-icon{
+	 color:#37517E;
+	 background-color:#EFF2F8;
+	 border-radius:50%;
+	 padding:.6rem;
+ }
+ .mem{
+	 background-color:#F3F5FA;
+	 margin-top:5rem;
+ }
+ 
+ .fq h2{
+	 font-size:32px;
+	 color:#37517E;
+ }
+ .fq p{
+	  font-size:16px;
+ }
+ .fq{
+	 text-align:center;
+	 padding:3rem;
+ }
+ .ten{
+	 margin-top:2rem;
+	 background-color:#F3F5FA;
+ }
+ .ques{
+	 padding:2rem;
+ }
+ .intel{
+	 display:flex;
+	 gap:2rem;
+	 padding:2rem;
+	 margin:.5rem;	
+ }
+ 
+ .wva{
+	 display:flex;
+	 gap:2rem;
+	 padding:2rem;
+	 margin:.5rem;	
+ }
+ .my{
+	 
+	 display:flex;
+	 gap:2rem;
+	 padding:2rem;
+	 margin:.5rem;	
+ }
+ .tick{
+	 display:flex;
+	 gap:1rem;
+	 
+ }
+ .ri iconify-icon{
+	 color:#1ad1ff;
+ }
+ .bt button{
+	 width:8rem;
+	padding:6px;
+	border:2px solid #1ad1ff; ; 
+	color:#1ad1ff;
+	border-radius:10px;
+	background-color:white;
+	
+ }
+  
+ .bts{
+	 padding:2rem;
+ }
+ .vol h3{
+	 margin-top:2rem;
+	 color:#37517E;
+	 font-size:32px;
+ }
+ .vol img{
+	 width: 12rem;
+	 height:18rem;
+	margin-left:2rem;
+ }
+ .area{
+	 padding:2rem; 
+	 margin-top:5rem;
+ }
+ .point h3{
+	font-size:32px;
+	color:#37517E;	
+ }
+ .back{
+	 margin-top:7rem;
+ }
+.debit h2{
+	text-align:center;
+	color:#37517E;
+	
+}
+.debit p{
+	text-align:center;
+}
+.bank{
+	margin-top:2rem;
+}
+.win h3{
+	font-size:28px;
+}
+.win p{
+	font-size:16px;
+}
+.lang{
+	padding:3rem;
+	
+}
+.win button{
+	width:10rem;
+		padding:9px;
+		 background-color:#1ad1ff;
+		 color:white;
+		 border:1px white;
+		 border-radius:25px;
+}
+.pos img{
+	margin-top:2rem;
+}
+.cen{
+	text-align:center;
+}
+.cen h2{
+	font-size:32px;
+	color:#37517E;
+}
+.cen p{
+		font-size:16px;
+}
+.brand{
+	margin-top:4rem;
+}
+.no {
+	padding:2rem;
+}
+.small{
+		display:flex;
+		align-items:center;
+		gap:1rem;
+}
+.large iconify-icon{
+		color:green;
+		font-size:2rem;
+	}
+	.utf{
+		font-size:16px;
+	}
+	.price h2{
+		text-align:center;
+		color:#37517E;
+		padding:2rem;
+		
+	}
+	
+	.price p{
+		text-align:center;
+		
+	}
+	.partly button{
+		width:8rem;
+		padding:6px;
+		 background-color:#1ad1ff;
+		 color:white;
+		 border:1px #1ad1ff ;
+		 border-radius:25px;
+	}
+	.rate h4{
+		color:#37517E;
+		}
+		.rate h1{
+		color:#37517E;
+		}
+		.rate p{
+		color:#37517E;
+		}
+		.amount h4{
+			color:#37517E;
+		}
+		.amount h1{
+		color:#37517E;
+		}
+		.amount p{
+		color:#37517E;
+		
+		}
+		
+		
+		
+		
+		
+		
+		.route{
+margin-top:3rem;
+}
+   
+   .contactlast iframe{
+  width:100%
+   }
+   .images img{
+  width:100%
+   }
+   form input{
+  width:100%
+   }
+   form textarea{
+   width:100%
+   }
+   
+   
+   
+.main{
+	display:flex;
+	justify-content:center;
+}
+.code{
+	text-align:center;
+}
+.work{
+	 background-color:#F3F5FA;;
+	 padding:4rem;
+}
+.cr button{
+	background-color:#1ad1ff;
+	color:white;
+	padding:7px;
+	border-radius:19px;
+	border-color:#1ad1ff;
+}
+/* .sc input{ */
+		/* width:19rem; */
+		/* padding:6px; */
+		/* border-radius:19px; */
+		/* background-color:white; */
+		/* border-color:white; */
+	/* } */
+	.material{
+		display:flex;
+		align-items:center;
+		gap:1rem;
+	}
+	.symbol iconify-icon{
+		color:#1ad1ff;
+		
+	}
+	.esc{
+		display:flex;
+		justify-content: space-around;
+		
+		}
+	.finish{
+		margin-top:2rem;
+	}
+	.sort button{
+		
+		background-color:#EB5D1E;
+		color:white;
+		
+	}
+	
+	.con iconify-icon{
+		font-size:1rem;
+		padding:.5rem;
+		background-color:#1ad1ff;
+		color:white;
+		border-radius:50%;
+	}
+	.core{
+		display:flex;
+		justify-content:space-between;
+		
+	}
+	.last{
+		background-color:#37517E;
+		padding:1rem;
+		color:white;
+	}
+	.core p{
+		color:white;
+		font-size:14px;
+	}
+	.started{
+		text-align:center;
+		
+	}
+	.started h2{
+		font-size:32px;
+			color:#37517E;
+	}
+	.infomation{
+		display:flex;
+		align-items:center;
+		gap:1rem;
+		
+		
+	}
+	.il iconify-icon{
+		background-color:#F3F5FA;
+		font-size:1rem;
+		padding:1rem;
+		color:#1ad1ff;
+		border-radius:50%
+		
+	}
+	.win h3{
+		color:white;
+		
+	}
+	.win p{
+		color:white;
+	}
+	.eye{
+		display:flex;
+		justify-content:space-between;
+	}
+	.eye p{
+		font-size:13px;
+	 color:#37517E;
+	}
+	.view img{
+	 width:10rem;
+	 height:10rem;
+	 border-radius:50%;
+ }
+ .alias {
+	 display:flex;
+	 gap:2rem;
+	 padding:2rem;
+ }
+	
+	
+	
+	@@media screen and (min-width:320px){
+	.tower{
+		padding:2rem;
+	}
+	
+	
+	
+	.vol img{
+	 width:12rem;
+	 height:18rem;
+	margin-left:2rem;
+ }
+ .in h1{
+	 font-size:28px;
+	 
+ }
+ .in h2{
+	 font-size:18px;
+	 
+ }
+ .tower{
+			background-image:url("‪bulid.jpg");
+			text-align:center;
+			padding:2rem;
+	
+}
+.win h3{
+	font-size:12px;
+}
+.win p{
+	font-size:10px;
+}
+}
